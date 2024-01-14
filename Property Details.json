@@ -1,20 +1,22 @@
 [
- {
-  "Seller Name": "Anshita",
-  "Phone ": 2020202020,
-  "Prioperty Type": "Residential",
-  "Property Category": "Land"
+ {"_id": 00000000001
+  "bedrooms": "Anshita",
+  "pricing": 2020202020,
+  "location": "Residential",
+  "category": "Land"
  },
  {
-  "Seller Name": "Akash",
-  "Phone ": 8888888888,
-  "Prioperty Type": "Commercial",
-  "Property Category": "Apartment"
+  "_id": 0000000000
+  "bedrooms": "Akash",
+  "pricing": 8888888888,
+  "location": "Commercial",
+  "category": "Apartment"
  },
  {
-  "Seller Name": "Aaaku",
-  "Phone ": 7777777777,
-  "Prioperty Type": "Residential",
-  "Property Category": "Bunglow"
+  "_id": 00000000003
+  "bedrooms": "Aaaku",
+  "pricing": 7777777777,
+  "location": "Residential",
+  "category": "Bunglow"
  }
 ]
