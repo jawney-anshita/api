@@ -1,0 +1,20 @@
+[
+ {
+  "Seller Name": "Anshita",
+  "Phone ": 2020202020,
+  "Prioperty Type": "Residential",
+  "Property Category": "Land"
+ },
+ {
+  "Seller Name": "Akash",
+  "Phone ": 8888888888,
+  "Prioperty Type": "Commercial",
+  "Property Category": "Apartment"
+ },
+ {
+  "Seller Name": "Aaaku",
+  "Phone ": 7777777777,
+  "Prioperty Type": "Residential",
+  "Property Category": "Bunglow"
+ }
+]
