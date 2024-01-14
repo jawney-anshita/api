@@ -1,19 +1,19 @@
 [
- {"id": 00000000001,
+ {"id": "00000000001",
   "bedrooms": "Anshita",
   "pricing": 2020202020,
   "location": "Residential",
   "category": "Land"
  },
  {
-  "id": 0000000000,
+  "id": "0000000002",
   "bedrooms": "Akash",
   "pricing": 8888888888,
   "location": "Commercial",
   "category": "Apartment"
  },
  {
-  "id": 00000000003,
+  "id": "00000000003",
   "bedrooms": "Aaaku",
   "pricing": 7777777777,
   "location": "Residential",
